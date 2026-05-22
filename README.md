@@ -163,12 +163,13 @@ customer-shopping-behavior-analysis/
 └── README.md
 ```
 ---
-###Project Outcome
+
+Project Outcome
 
 This project successfully transformed raw retail transaction data into actionable business insights using analytics, SQL querying, and interactive dashboard visualization.
 
 ---
-##Author
+Author
 
 Madhura Barve
 
