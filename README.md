@@ -300,6 +300,6 @@ Full Stack & AI/ML Developer passionate about building impactful data-driven app
 
 ### Connect With Me
 
-- LinkedIn
-- GitHub
-- Email
+[LinkedIn](https://www.linkedin.com/in/madhura-barve-216629308/) •
+[GitHub](https://github.com/MADHURA1907) •
+[Email](mailto:barvemadhura19@gmail.com)
