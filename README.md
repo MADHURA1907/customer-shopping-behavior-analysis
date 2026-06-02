@@ -1,15 +1,5 @@
 ﻿# Customer Shopping Behavior Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
 A complete end-to-end data analytics portfolio project focused on analyzing customer shopping behavior using Python, SQL, MySQL, and Power BI.
 
 The project transforms raw retail transaction data into actionable business insights through data cleaning, exploratory data analysis, SQL-based business analysis, and interactive dashboard visualization.
@@ -291,15 +281,3 @@ This project successfully transformed raw retail transaction data into meaningfu
 The analysis demonstrates how businesses can leverage customer shopping data to improve strategic decision-making and customer engagement.
 
 ---
-
-# Author
-
-## Madhura Barve
-
-Full Stack & AI/ML Developer passionate about building impactful data-driven applications.
-
-### Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/madhura-barve-216629308/) •
-[GitHub](https://github.com/MADHURA1907) •
-[Email](mailto:barvemadhura19@gmail.com)
